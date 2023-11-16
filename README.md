@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=nwang888&color=dc143c&base=257)
+![](https://komarev.com/ghpvc/?username=nwang888&color=green&base=257)
 
 <!--
 **nwang888/nwang888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
