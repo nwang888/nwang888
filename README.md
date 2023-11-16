@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
 
-![](https://komarev.com/ghpvc/?username=nwang888&color=brightgreen&base=257)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+I'm N, a junior at Duke University studying Computer Science and Economics.
+Here's a couple things I'm doing right now:
+- currently working on iMessageWrapped, an iMessage analytics and automation platform to drive relational insights about your texting habits
+- building a locally hosted mint clone using Plaid (but maybe I'll switch to teller.io)
+- leading product & strategy for BlueRide, a rideshare cost-saving program for Duke students
+
 <!--
 **nwang888/nwang888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwang888)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=nwang888&color=brightgreen&base=257)
 
 Here are some ideas to get you started:
 
