@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm N, a junior at Duke University studying Computer Science and Economics.
+I'm N, a senior at Duke University studying Computer Science and Economics.
 Here's a couple things I'm doing right now:
 - currently working on iMessageWrapped, an iMessage analytics and automation platform to drive relational insights about your texting habits
 - building a locally hosted mint clone using Plaid (but maybe I'll switch to teller.io)
