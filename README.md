@@ -1,10 +1,11 @@
 ### Hi there! 👋
 
-I'm N, a senior at Duke University studying Computer Science and Economics.
-Here's a couple things I'm doing right now:
-- currently working on iMessageWrapped, an iMessage analytics and automation platform to drive relational insights about your texting habits
-- building a locally hosted mint clone using Plaid (but maybe I'll switch to teller.io)
-- leading product & strategy for BlueRide, a rideshare cost-saving program for Duke students
+I'm N, I just graduated Duke University with a B.S. in Computer Science and Economics.
+
+Here's some stuff I worked on before:
+- iMessageWrapped, an iMessage analytics and automation platform to drive relational insights about your texting habits
+- Pingr, an automated iMessage broadcasting platform
+- HackDuke, Duke's annual hackathon
 
 <!--
 **nwang888/nwang888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
